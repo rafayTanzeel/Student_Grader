@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.software.shell.fab.ActionButton xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/floating_action_button"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentRight="true"
+    fab:type="DEFAULT"
+    fab:button_color="@color/colorAccent"
+    fab:button_colorPressed="@color/colorPressedAccent"
+    fab:image="@drawable/ic_add_circle_outline"
+    fab:button_colorRipple="@color/colorfabRipple"
+    fab:rippleEffect_enabled="true"
+    fab:shadowResponsiveEffect_enabled="true" />
+
+
+
